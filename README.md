@@ -4,4 +4,6 @@
 
 ## Digital Clock
 
-GUI using Swing
+## Password Generator
+
+GUI using Swing and AWT
