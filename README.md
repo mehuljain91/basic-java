@@ -6,4 +6,5 @@
 
 ## Password Generator
 
-GUI using Swing and AWT
+## Email Application 
+
